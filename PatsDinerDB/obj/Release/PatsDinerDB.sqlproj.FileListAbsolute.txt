@@ -1,0 +1,9 @@
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\bin\Release\PatsDinerDB.dacpac
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\bin\Release\PatsDinerDB.dll
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\bin\Release\PatsDinerDB.pdb
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Release\Model.xml
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Release\refactor.xml
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Release\postdeploy.sql
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Release\predeploy.sql
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Release\PatsDinerDB.dll
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Release\PatsDinerDB.pdb

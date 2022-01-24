@@ -1,0 +1,10 @@
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\bin\Debug\PatsDinerDB.dacpac
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\bin\Debug\PatsDinerDB.dll
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\bin\Debug\PatsDinerDB.pdb
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Debug\PatsDinerDB.sqlproj.AssemblyReference.cache
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Debug\Model.xml
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Debug\refactor.xml
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Debug\postdeploy.sql
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Debug\predeploy.sql
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Debug\PatsDinerDB.dll
+C:\Users\patri\source\repos\AspNetCoreCommon\PatsDinerDB\obj\Debug\PatsDinerDB.pdb
